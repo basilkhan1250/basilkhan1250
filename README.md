@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 
 
 
-👋 Hi there! I'm Mohammad Basil Khan, a passionate Frontend developer with a keen interest in creating innovative and efficient solutions. My journey in software development has equipped me with diverse skills, enabling me to tackle various challenges in the tech world.
+👋 Hi there! <h1>I'm Mohammad Basil Khan</h1> , a passionate Frontend developer with a keen interest in creating innovative and efficient solutions. My journey in software development has equipped me with diverse skills, enabling me to tackle various challenges in the tech world.
 
 ### About Me
-- 💻 I specialize in Frontend Development.
+- 💻 Frontend Development sharing about my journey and learning new tech.
 - 🌟 I'm always eager to learn new technologies and improve my skill set.
 - 🌍 I love collaborating with developers from all around the globe.
 - 🔭 I’m currently working on ShoeStore.
 - 🌱 I’m currently learning Angular.js.
+- 
 
 ### Skills
 - Languages: HTML, CSS, JavaScript. 
