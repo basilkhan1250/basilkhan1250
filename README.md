@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>👋 Hi there! I'm Mohammad Basil Khan.</h2> A passionate Frontend developer with a keen interest in creating innovative and efficient solutions. My journey in software development has equipped me with diverse skills, enabling me to tackle various challenges in the tech world.
+<h1>👋 Hi there! I'm Mohammad Basil Khan.</h1> A passionate Frontend developer with a keen interest in creating innovative and efficient solutions. My journey in software development has equipped me with diverse skills, enabling me to tackle various challenges in the tech world.
 
 ### About Me
 - 💻 Frontend Development sharing about my journey and learning new tech.
